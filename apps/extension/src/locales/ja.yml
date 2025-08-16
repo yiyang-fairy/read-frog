@@ -110,7 +110,7 @@ options:
         blur: ぼかし効果
         blockquote: 引用
         weakened: 弱化
-        dashedLine: 破線のスタイル
+        dashedLine: 破線
 side:
   sourceLang: ソース言語
   targetLang: 翻訳言語

@@ -112,7 +112,7 @@ options:
         blur: 흐림 효과
         blockquote: 인용
         weakened: 약화
-        dashedLine: 점선 스타일
+        dashedLine: 점선
 side:
   sourceLang: 원본 언어
   targetLang: 대상 언어
