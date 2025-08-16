@@ -113,6 +113,7 @@ options:
         blur: 模糊效果
         blockquote: 引用
         weakened: 弱化
+        dashedLine: 虚线
 side:
   sourceLang: 来源语言
   targetLang: 目标语言

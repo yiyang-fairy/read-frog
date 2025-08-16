@@ -112,6 +112,7 @@ options:
         blur: Blur Effect
         blockquote: Blockquote
         weakened: Weakened
+        dashedLine: Dashed Line
 side:
   sourceLang: Source Language
   targetLang: Target Language
