@@ -1,5 +1,5 @@
 ---
-"@read-frog/extension": patch
+"@read-frog/extension": minor
 ---
 
 feat: add dashed line style
