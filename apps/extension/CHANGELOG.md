@@ -1,5 +1,11 @@
 # @read-frog/extension
 
+## 1.8.1
+
+### Patch Changes
+
+- [#448](https://github.com/mengxi-ream/read-frog/pull/448) [`e83cead`](https://github.com/mengxi-ream/read-frog/commit/e83cead4eb4f6cb49fe79272dfbbdaa6e6be8ead) Thanks [@Yukiniro](https://github.com/Yukiniro)! - fix: use color-scheme to support native components
+
 ## 1.8.0
 
 ### Minor Changes
